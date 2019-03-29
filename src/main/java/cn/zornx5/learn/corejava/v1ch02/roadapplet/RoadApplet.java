@@ -2,7 +2,7 @@
  * Copyright (c) 2019. Zorn(zornx5@gmail.com). All rights reserved.
  */
 
-package cn.zornx5.learn.core.java.v1ch02.road.applet;
+package cn.zornx5.learn.corejava.v1ch02.roadapplet;
 
 import javax.swing.JApplet;
 import javax.swing.JLabel;

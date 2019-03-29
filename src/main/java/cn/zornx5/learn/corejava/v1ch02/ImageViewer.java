@@ -2,10 +2,16 @@
  * Copyright (c) 2019. Zorn(zornx5@gmail.com). All rights reserved.
  */
 
-package cn.zornx5.learn.core.java.v1ch02;
+package cn.zornx5.learn.corejava.v1ch02;
 
-import javax.swing.*;
-import java.awt.*;
+import javax.swing.ImageIcon;
+import javax.swing.JFileChooser;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+import javax.swing.JMenuItem;
+import java.awt.EventQueue;
 import java.io.File;
 
 /**
