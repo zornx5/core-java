@@ -2,7 +2,7 @@
  * Copyright (c) 2019. Zorn(zornx5@gmail.com). All rights reserved.
  */
 
-package cn.zornx5.learn.corejava.v1ch03.first;
+package cn.zornx5.learn.core.java.v1ch03.first;
 
 /**
  * FirstDemo 类.
